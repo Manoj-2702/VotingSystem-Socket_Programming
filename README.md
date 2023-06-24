@@ -5,3 +5,4 @@ This project includes
 - Threading,
 - Two-factor authentication using SMTP.
 - MongoDB as a database
+- SSL fully secured voting
